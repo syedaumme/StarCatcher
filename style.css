@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    background-color: lavender;
+}
+#game {
+        width: 990px;
+        height: 500px;
+        border: 3px solid palevioletred;
+        margin: auto;
+        position: relative;
+    }
+#star {
+    position: absolute;
+    cursor: pointer;
+    margin: 25pt;
+}
